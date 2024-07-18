@@ -1,0 +1,8 @@
+keyboard
+opencv-python
+pyautogui
+numpy
+mss
+Pillow
+label-studio
+pygame
